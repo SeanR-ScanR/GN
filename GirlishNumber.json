@@ -4,5 +4,54 @@
   "artist": "Yūki Dōmoto",
   "author": "Wataru Watari",
   "cover": "https://www.nautiljon.com/images/manga/00/24/gi_a_rlish_number_6742.webp",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1702321901",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/75yAFoL"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1702321911",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/2ETWfUk"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1702321886",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/x4yYNSX"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1702321951",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/imMUVsC"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1702321990",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/nhP7Wox"
+      }
+    },
+    "5.5": {
+      "title": "5.5",
+      "volume": "1",
+      "last_updated": "1702322028",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/fkFlLxi"
+      }
+    }
+  }
 }
