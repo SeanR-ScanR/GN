@@ -45,10 +45,50 @@
         "Raw": "/proxy/api/imgur/chapter/nhP7Wox"
       }
     },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1702322246",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/vGZvAf3"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1702322329",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/46s4VGW"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "1",
+      "last_updated": "1702322475",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/JPgxfVY"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "1",
+      "last_updated": "1702322576",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/wxd2cFe"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "1",
+      "last_updated": "1702322867",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/XVp9CUz"
+      }
+    },
     "5.5": {
       "title": "5.5",
       "volume": "1",
-      "last_updated": "1702322028",
+      "last_updated": "1702322317",
       "groups": {
         "Raw": "/proxy/api/imgur/chapter/fkFlLxi"
       }
