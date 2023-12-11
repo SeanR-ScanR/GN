@@ -85,12 +85,62 @@
         "Raw": "/proxy/api/imgur/chapter/XVp9CUz"
       }
     },
+    "11": {
+      "title": "11",
+      "volume": "1",
+      "last_updated": "1702323002",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/DDd0IsP"
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "1",
+      "last_updated": "1702323081",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/liTYOF1"
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "1",
+      "last_updated": "1702323145",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/Fi0Dgmc"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "1",
+      "last_updated": "1702323195",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/5vvKq0k"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "1",
+      "last_updated": "1702323217",
+      "groups": {
+        "Raw": [
+          ""
+        ]
+      }
+    },
     "5.5": {
       "title": "5.5",
       "volume": "1",
       "last_updated": "1702322317",
       "groups": {
         "Raw": "/proxy/api/imgur/chapter/fkFlLxi"
+      }
+    },
+    "10.5": {
+      "title": "10.5",
+      "volume": "1",
+      "last_updated": "1702322920",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/LNhHd6v"
       }
     }
   }
