@@ -4,34 +4,5 @@
   "artist": "Naito Marcey",
   "author": "Naito Marcey",
   "cover": "https://www.nautiljon.com/images/manga/00/89/how_i_married_an_amagami_sister_18898.webp?1675925853",
-  "chapters": {
-    "120": {
-      "title": "Marchons sous la pluie",
-      "volume": "120",
-      "last_updated": "1703679448",
-      "groups": {
-        "ScanR": [
-          "https://drive.google.com/uc?export=view&id=1arkxodYoASPJli1j-rzo0LrSImwKbPoc",
-          "https://drive.google.com/uc?export=view&id=1zqQL7ohb1FsZzTjYYkW0K_vbKzbZrRw7",
-          "https://drive.google.com/uc?export=view&id=1aRtWcLtVp0cFcgT7HqqRzdPdkk9C3ipK",
-          "https://drive.google.com/uc?export=view&id=1VBi8TEBiygjmTNFrqdYy7cd_V4QJ85WS",
-          "https://drive.google.com/uc?export=view&id=14YxgzRy2Iheh7rfnMQSktry6xNNP9i_h",
-          "https://drive.google.com/uc?export=view&id=1V7Ml6wSR6jO3kyJvJMR7CgCOr13X6Kf4",
-          "https://drive.google.com/uc?export=view&id=1N1ayygZf62ZHWHe0UzTvvL0chZkXQHyV",
-          "https://drive.google.com/uc?export=view&id=1EtgfKJEzw-379SsqVsOMGkCo96F56P4r",
-          "https://drive.google.com/uc?export=view&id=1H91NXAJdJqwzyt6wMG_6JhPpZlECzvst",
-          "https://drive.google.com/uc?export=view&id=1eMRE_VQuD0EINi1wfqP4dDuIjYfZPRYb",
-          "https://drive.google.com/uc?export=view&id=1n2iqAtI0e2bOwlU1yxr1SBkraGNsYiYY",
-          "https://drive.google.com/uc?export=view&id=19RVsEw4v8sZj0XrOr0xOcMFWyHVwS193",
-          "https://drive.google.com/uc?export=view&id=1BHZvnLjtKY9EjgCmzHB_8Uq3gJyuS3p6",
-          "https://drive.google.com/uc?export=view&id=1HrdeT9R59tDCGKZo2xslAOFhHwkUL8sH",
-          "https://drive.google.com/uc?export=view&id=1ptc9NxVOkF3pyfNIrtbP-0wU8W_mMEVS",
-          "https://drive.google.com/uc?export=view&id=14ivHbsgO92VLplOyLW3qb1fpdleVWISJ",
-          "https://drive.google.com/uc?export=view&id=1ey9PSYfUjJxAExE2J92CWBEyBtoUox1N",
-          "https://drive.google.com/uc?export=view&id=1J0XydRqcQZTAwD8OO5x3X--nOYJkrIXM",
-          "https://drive.google.com/uc?export=view&id=1VCgAGEg8trnEJm0H_RqJdwsYejC8yek-"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
