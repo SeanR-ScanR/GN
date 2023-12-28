@@ -5,6 +5,14 @@
   "author": " Chiba You",
   "cover": "https://www.nautiljon.com/images/manga/00/10/kindergarden_wars_23401.webp?1703417758",
   "chapters": {
+    "10": {
+      "title": "Tout ira bien",
+      "volume": "2",
+      "last_updated": "1703780635",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/lvxeGEh"
+      }
+    },
     "14": {
       "title": "Letal",
       "volume": "2",
