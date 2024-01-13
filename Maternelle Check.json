@@ -5,6 +5,14 @@
   "author": " Chiba You",
   "cover": "https://www.nautiljon.com/images/manga/00/10/kindergarden_wars_23401.webp?1703417758",
   "chapters": {
+    "8": {
+      "title": "Frère et sœur ",
+      "volume": "2",
+      "last_updated": "1705155337",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/sWvk9Hv"
+      }
+    },
     "9": {
       "title": "La sorcière",
       "volume": "2",
@@ -55,7 +63,7 @@
     },
     "16": {
       "title": "Un jouet qui ne se brisera jamais",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1704129531",
       "groups": {
         "ScanR": [
@@ -90,7 +98,7 @@
     },
     "17": {
       "title": "Je veux juste être aimée.",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1704485314",
       "groups": {
         "ScanR": "/proxy/api/imgur/chapter/WmkLPyY"
