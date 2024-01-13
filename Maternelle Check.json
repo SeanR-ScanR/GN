@@ -5,6 +5,14 @@
   "author": " Chiba You",
   "cover": "https://www.nautiljon.com/images/manga/00/10/kindergarden_wars_23401.webp?1703417758",
   "chapters": {
+    "9": {
+      "title": "La sorcière",
+      "volume": "2",
+      "last_updated": "1705152622",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/dNpJqUx"
+      }
+    },
     "10": {
       "title": "Tout ira bien",
       "volume": "2",
