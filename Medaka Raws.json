@@ -56,10 +56,7 @@
       "volume": "119",
       "last_updated": "1705417861",
       "groups": {
-        "": [
-          "https://imgur.com/a/xlsoKoL",
-          ""
-        ]
+        "": "/proxy/api/imgur/chapter/xlsoKoL"
       }
     }
   }
