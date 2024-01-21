@@ -74,7 +74,34 @@
       "volume": "3",
       "last_updated": "1704129531",
       "groups": {
-        "ScanR": "/proxy/api/imgur/chapter/utLejWp"
+        "ScanR": [
+          "https://i.ibb.co/NtR3C3H/01.jpg",
+          "https://i.ibb.co/QJmWPwP/02.jpg",
+          "https://i.ibb.co/QJpxG5M/03.jpg",
+          "https://i.ibb.co/0chs796/04.jpg",
+          "https://i.ibb.co/12zbm74/05.jpg",
+          "https://i.ibb.co/mCHtyy4/06.jpg",
+          "https://i.ibb.co/PQfxk2s/07.jpg",
+          "https://i.ibb.co/6sbcD6V/08.jpg",
+          "https://i.ibb.co/1LKY5MW/09.jpg",
+          "https://i.ibb.co/wCJCtVM/10.jpg",
+          "https://i.ibb.co/ctjpcnY/11.jpg",
+          "https://i.ibb.co/ydm6tfx/12.jpg",
+          "https://i.ibb.co/kyv08ms/13.jpg",
+          "https://i.ibb.co/JF6tMh7/14.jpg",
+          "https://i.ibb.co/dmprFrn/15.jpg",
+          "https://i.ibb.co/JjJn9Ts/16.jpg",
+          "https://i.ibb.co/K5P5J6B/17.jpg",
+          "https://i.ibb.co/RGK14CR/18.jpg",
+          "https://i.ibb.co/q9BwtTB/19.jpg",
+          "https://i.ibb.co/5RvZ75S/20.jpg",
+          "https://i.ibb.co/ngf2t6Q/21.jpg",
+          "https://i.ibb.co/YbvxDMX/22.jpg",
+          "https://i.ibb.co/W3Mgksx/23.jpg",
+          "https://i.ibb.co/Ln5gY3S/24.jpg",
+          "https://i.ibb.co/fSSNkgm/25.jpg",
+          "https://i.ibb.co/9HWZ1YP/26.jpg"
+        ]
       }
     },
     "17": {
