@@ -70,6 +70,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/eQBZJeR"
       }
+    },
+    "123": {
+      "title": "123",
+      "volume": "123",
+      "last_updated": "1706026006",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bFEDT2O"
+      }
     }
   }
 }
