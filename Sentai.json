@@ -80,6 +80,33 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/bGOXL2O"
       }
+    },
+    "126": {
+      "title": "126",
+      "volume": "125",
+      "last_updated": "1706626991",
+      "groups": {
+        "Raw": [
+          "https://i.ibb.co/bW6GVV1/01.jpg",
+          "https://i.ibb.co/qpZdN0Y/02.jpg",
+          "https://i.ibb.co/Mhp81Kd/03.jpg",
+          "https://i.ibb.co/LhsBQqy/04.jpg",
+          "https://i.ibb.co/4NyV0P7/05.jpg",
+          "https://i.ibb.co/t4hQ6hn/06.jpg",
+          "https://i.ibb.co/NVQ3pJF/07.jpg",
+          "https://i.ibb.co/f9FhM91/08.jpg",
+          "https://i.ibb.co/w61R61Z/09.jpg",
+          "https://i.ibb.co/TvcZFzh/10.jpg",
+          "https://i.ibb.co/B36j5BB/11.jpg",
+          "https://i.ibb.co/NV845dH/12.jpg",
+          "https://i.ibb.co/NjtZJpz/13.jpg",
+          "https://i.ibb.co/dD2NpbY/14.jpg",
+          "https://i.ibb.co/1RXyCrd/15.jpg",
+          "https://i.ibb.co/pPyRK3j/16.jpg",
+          "https://i.ibb.co/hK7xzzt/17.jpg",
+          "https://i.ibb.co/JcLtzFP/18.jpg"
+        ]
+      }
     }
   }
 }
