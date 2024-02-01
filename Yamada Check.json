@@ -4,5 +4,14 @@
   "artist": "Mashiro",
   "author": "Mashiro",
   "cover": "https://www.nautiljon.com/images/manga/00/00/yamada-kun_to_lv999_no_koi_wo_suru_16200.webp?1698397061",
-  "chapters": {}
+  "chapters": {
+    "72": {
+      "title": "Réunion chez ChocoLapin",
+      "volume": "7",
+      "last_updated": "1706822799",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/TnIr4l9"
+      }
+    }
+  }
 }
