@@ -107,6 +107,14 @@
           "https://i.ibb.co/JcLtzFP/18.jpg"
         ]
       }
+    },
+    "127": {
+      "title": "127",
+      "volume": "127",
+      "last_updated": "1707231963",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/Me0sNPY"
+      }
     }
   }
 }
