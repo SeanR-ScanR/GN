@@ -279,7 +279,22 @@
       "volume": "2",
       "last_updated": "1708355810",
       "groups": {
-        "ScanR": "/proxy/api/imgur/chapter/mzouH9N"
+        "ScanR": [
+          "https://ibb.co/HTRh4VY",
+          "https://ibb.co/HCDszB1",
+          "https://ibb.co/RQrM4sJ",
+          "https://ibb.co/0h67kBc",
+          "https://ibb.co/202cgdK",
+          "https://ibb.co/GFVgfZv",
+          "https://ibb.co/x34d9KC",
+          "https://ibb.co/xCBmh29",
+          "https://ibb.co/vL8mGdH",
+          "https://ibb.co/0DS24Zz",
+          "https://ibb.co/3p1gW5H",
+          "https://ibb.co/wKPXVDb",
+          "https://ibb.co/yP3PpN0",
+          "https://ibb.co/QP6v4Yf"
+        ]
       }
     }
   }
