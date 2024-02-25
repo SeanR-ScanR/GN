@@ -99,7 +99,9 @@
       "volume": "",
       "last_updated": "1708868729",
       "groups": {
-        "ScanR": "/proxy/api/imgur/chapter/zxmi37K"
+        "ScanR": [
+          "https://drive.usercontent.google.com/download?id=1_V43y0kmvTtpq2da-tbGwSM-LL0jswZk"
+        ]
       }
     }
   }
