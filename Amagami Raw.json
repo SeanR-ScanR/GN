@@ -94,6 +94,37 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/032wUdb"
       }
+    },
+    "127": {
+      "title": "127",
+      "volume": "",
+      "last_updated": "1709046309",
+      "groups": {
+        "": [
+          "https://i.ibb.co/kqD6pMk/01.jpg",
+          "https://i.ibb.co/WkfGMjn/02.jpg",
+          "https://i.ibb.co/0FCGZxC/04.jpg",
+          "https://i.ibb.co/xjSFhyZ/05.jpg",
+          "https://i.ibb.co/SvBfSss/06.jpg",
+          "https://i.ibb.co/KFgCVg2/07.jpg",
+          "https://i.ibb.co/LSNsLzM/08.jpg",
+          "https://i.ibb.co/hDR5gmb/09.jpg",
+          "https://i.ibb.co/Mcnvgq5/10.jpg",
+          "https://i.ibb.co/B4LpWGB/11.jpg",
+          "https://i.ibb.co/mcpVQzx/12.jpg",
+          "https://i.ibb.co/8rJcHvS/13.jpg",
+          "https://i.ibb.co/H7mXhSC/14.jpg",
+          "https://i.ibb.co/HppGDx2/15.jpg",
+          "https://i.ibb.co/0yZXgdB/16.jpg",
+          "https://i.ibb.co/nCWVTyX/17.jpg",
+          "https://i.ibb.co/s5K1LbX/18.jpg",
+          "https://i.ibb.co/RYyyY5Y/19.jpg",
+          "https://i.ibb.co/2ngmbcZ/20.jpg",
+          "https://i.ibb.co/vLrhyby/21.jpg",
+          "https://i.ibb.co/1ncxcxB/22.jpg",
+          "https://i.ibb.co/fq20PKR/23.jpg"
+        ]
+      }
     }
   }
 }
