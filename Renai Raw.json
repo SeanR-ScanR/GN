@@ -113,6 +113,14 @@
           "https://i.ibb.co/vvwHbkb/18.jpg"
         ]
       }
+    },
+    "30.1": {
+      "title": "30.1",
+      "volume": "",
+      "last_updated": "1710168244",
+      "groups": {
+        "Edit": "/proxy/api/imgur/chapter/Z03KGJa"
+      }
     }
   }
 }
