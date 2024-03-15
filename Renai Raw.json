@@ -114,12 +114,12 @@
         ]
       }
     },
-    "30.1": {
-      "title": "30.1",
+    "31": {
+      "title": "31",
       "volume": "",
-      "last_updated": "1710168244",
+      "last_updated": "1710504744",
       "groups": {
-        "Edit": "/proxy/api/imgur/chapter/Z03KGJa"
+        "Raw": "/proxy/api/imgur/chapter/7U2PhMd"
       }
     }
   }
