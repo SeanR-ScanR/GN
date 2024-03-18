@@ -1,0 +1,38 @@
+{
+  "title": "Cingray Raw",
+  "description": "Uma Musume - Cinderella Gray est un spin-off du projet Uma Musume de Cygames. On y suit le personnage d'Oguri Cap tout au long de son séjour à la Kasamatsu Training Center Academy et de son parcours pour devenir une cavalière légendaire.",
+  "artist": "Kusumi Taiyou",
+  "author": "Itou Junnousuke ET Sugiura Masafumi",
+  "cover": "https://www.nautiljon.com/images/manga/00/01/uma_musume_-_cinderella_gray_18810.webp?1710642034",
+  "chapters": {
+    "112": {
+      "title": "112",
+      "volume": "",
+      "last_updated": "1710800394",
+      "groups": {
+        "RAW": [
+          "https://i.ibb.co/5BKQts6/01.png",
+          "https://i.ibb.co/MP0jTgJ/02.png",
+          "https://i.ibb.co/dJktrZ3/03.png",
+          "https://i.ibb.co/XxtdzGq/04.png",
+          "https://i.ibb.co/Jsv0SQ0/05.png",
+          "https://i.ibb.co/ZKsRJVh/06.png",
+          "https://i.ibb.co/K6x9gj5/07.png",
+          "https://i.ibb.co/vDvFWjH/08.png",
+          "https://i.ibb.co/KLNSv1c/09.png",
+          "https://i.ibb.co/TTrq3hz/10.png",
+          "https://i.ibb.co/68Kc47X/10-1.png",
+          "https://i.ibb.co/bd9jCnw/10-2.png",
+          "https://i.ibb.co/nkVHk4W/11.png",
+          "https://i.ibb.co/92JRPK9/11-1.png",
+          "https://i.ibb.co/VJh0qDV/11-2.png",
+          "https://i.ibb.co/KwFs8xb/12.png",
+          "https://i.ibb.co/SJFC0f5/13.png",
+          "https://i.ibb.co/Ks49dMt/14.png",
+          "https://i.ibb.co/QDttSLX/15.png",
+          "https://i.ibb.co/Jd2hmLJ/16.png"
+        ]
+      }
+    }
+  }
+}
