@@ -435,6 +435,29 @@
       "groups": {
         "ScanR": "/proxy/api/imgur/chapter/QtL2ttv"
       }
+    },
+    "21": {
+      "title": "Angoisse en cuisine",
+      "volume": "3",
+      "last_updated": "1711142722",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/f2fXjZw/00.jpg",
+          "https://i.ibb.co/41qjRSr/01.jpg",
+          "https://i.ibb.co/ggttWp4/02.jpg",
+          "https://i.ibb.co/nQ6vG5S/03.jpg",
+          "https://i.ibb.co/QJ7MRbr/04.jpg",
+          "https://i.ibb.co/jWhFXQc/05.jpg",
+          "https://i.ibb.co/L0bp87D/06.jpg",
+          "https://i.ibb.co/qmS1HSY/07.jpg",
+          "https://i.ibb.co/ckmRryT/08.jpg",
+          "https://i.ibb.co/JB3SMkV/09.jpg",
+          "https://i.ibb.co/Wx5JmCc/10.jpg",
+          "https://i.ibb.co/YZV6fq1/11.jpg",
+          "https://i.ibb.co/swPsPf1/12.jpg",
+          "https://i.ibb.co/rpGx0hn/13.jpg"
+        ]
+      }
     }
   }
 }
