@@ -60,6 +60,31 @@
       "groups": {
         "ScanR": "/proxy/api/imgur/chapter/3pXxxF6"
       }
+    },
+    "79": {
+      "title": "Hein ? Tu fais vraiment la queue ?",
+      "volume": "8",
+      "last_updated": "1711196224",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/SmSpYVW/01.jpg",
+          "https://i.ibb.co/yhvJfSM/02.jpg",
+          "https://i.ibb.co/zrhNpFn/03.jpg",
+          "https://i.ibb.co/Kzj0hL3/04.jpg",
+          "https://i.ibb.co/y89PG9Y/05.jpg",
+          "https://i.ibb.co/N2C71Hj/06.jpg",
+          "https://i.ibb.co/2Z4M7qF/07.jpg",
+          "https://i.ibb.co/FKQvcsf/08.jpg",
+          "https://i.ibb.co/GRNhsvZ/09.jpg",
+          "https://i.ibb.co/2FPd5bB/10.jpg",
+          "https://i.ibb.co/g3yytXF/11.jpg",
+          "https://i.ibb.co/R2g54Cz/12.jpg",
+          "https://i.ibb.co/Mfp7pcT/13.jpg",
+          "https://i.ibb.co/7z0FLZL/14.jpg",
+          "https://i.ibb.co/C8QP4Lb/15.jpg",
+          "https://i.ibb.co/VLc7gry/16.jpg"
+        ]
+      }
     }
   }
 }
