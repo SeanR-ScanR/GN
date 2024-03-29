@@ -85,6 +85,14 @@
           "https://i.ibb.co/VLc7gry/16.jpg"
         ]
       }
+    },
+    "80": {
+      "title": "C'est banal.",
+      "volume": "8",
+      "last_updated": "1711743312",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/FwSkVL8"
+      }
     }
   }
 }
