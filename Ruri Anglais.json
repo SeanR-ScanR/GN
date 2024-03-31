@@ -4,5 +4,34 @@
   "artist": "Shindo Masaoki",
   "author": "Shindo Masaoki",
   "cover": "https://www.nautiljon.com/images/manga/00/75/ruri_dragon_22057.webp?1689083399",
-  "chapters": {}
+  "chapters": {
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1711896089",
+      "groups": {
+        "Raw": [
+          "https://i.ibb.co/PQh7zzt/01.jpg",
+          "https://i.ibb.co/k99Gb4f/02.jpg",
+          "https://i.ibb.co/5j7kZsX/03.jpg",
+          "https://i.ibb.co/MDPC0Cq/04.jpg",
+          "https://i.ibb.co/LJvcxnw/05.jpg",
+          "https://i.ibb.co/Zmpx08j/06.jpg",
+          "https://i.ibb.co/wM5Z1xC/07.jpg",
+          "https://i.ibb.co/f01LFmD/08.jpg",
+          "https://i.ibb.co/x6ZdS43/09.jpg",
+          "https://i.ibb.co/zXm0Zx3/10.jpg",
+          "https://i.ibb.co/cw9sckP/11.jpg",
+          "https://i.ibb.co/bH97JJf/12.jpg",
+          "https://i.ibb.co/3msCBkt/13.jpg",
+          "https://i.ibb.co/hWVkbC8/14.jpg",
+          "https://i.ibb.co/xGWZFXF/15.jpg",
+          "https://i.ibb.co/qNMzCBd/16.jpg",
+          "https://i.ibb.co/jT7jQRT/17.jpg",
+          "https://i.ibb.co/SRBwP4q/18.jpg",
+          "https://i.ibb.co/xqJDKyj/19.jpg"
+        ]
+      }
+    }
+  }
 }
