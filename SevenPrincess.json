@@ -1,5 +1,5 @@
 {
-  "title": "Seven Sleeping Beauties",
+  "title": "Princess (Edit)",
   "description": "Dans le royaume enchanteur d'Amaryllis, Alec, le prince errant du royaume de Ludovechia, se lance dans une noble quête pour briser l'ancienne malédiction jetée par une sorcière qui a plongé le pays dans un sommeil profond. Sa mission : réveiller la princesse avec un baiser d'amour. Mais il y a un détail dont personne ne l'a prévenu : il y a sept princesses à embrasser ! Sans se décourager, il relève le défi et se retrouve à vivre parmi elles pour élucider le mystère qui se cache derrière l'état de torpeur du royaume. Trouveront-ils tous un jour leur bonheur ?",
   "artist": " Fiok Lee",
   "author": " Fiok Lee",
@@ -549,6 +549,14 @@
           "https://i.ibb.co/7Q1JD9H/13.jpg",
           "https://i.ibb.co/RPTFt21/14.jpg"
         ]
+      }
+    },
+    "26": {
+      "title": "Réconciliation avec Elisa",
+      "volume": "3",
+      "last_updated": "1712498362",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/AEElQL3"
       }
     }
   }
