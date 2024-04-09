@@ -1,5 +1,5 @@
 {
-  "title": "Amagami Raw",
+  "title": "Amagami (Raw)",
   "description": "Très jeune, Uryû Kamihate a perdu sa mère des suites d'une maladie. Depuis, il n'a qu'un seul objectif : intégrer le prestigieux département de médecine de l'université de Kyôto. Sans le sou et n'ayant aucun autre endroit où aller, il accepte de venir vivre au sanctuaire Amagami... sans savoir qu'il devra cohabiter avec les trois petites filles du prêtre : la douce mais tête en l'air Yae, l'espiègle Asahi, et la fervente Yuna au caractère de feu. La situation n'étant cependant pas assez compliquée comme ça, Uryû apprend que s'il veut pouvoir rester, il va devoir accepter d'épouser l'une d'elles !",
   "artist": "Naito Marcey",
   "author": "Naito Marcey",
@@ -239,6 +239,35 @@
           "https://i.ibb.co/0yY6JG2/i-182.jpg",
           "https://i.ibb.co/K71R3Lk/i-183.jpg",
           "https://i.ibb.co/qBjHSCk/i-184.jpg"
+        ]
+      }
+    },
+    "132": {
+      "title": "132",
+      "volume": "",
+      "last_updated": "1712681441",
+      "groups": {
+        "Raw": [
+          "https://i.ibb.co/KmH0b7m/01.jpg",
+          "https://i.ibb.co/bWdZfhY/02.jpg",
+          "https://i.ibb.co/NV41F6p/03.jpg",
+          "https://i.ibb.co/0M0J4kk/04.jpg",
+          "https://i.ibb.co/LPN46r7/05.jpg",
+          "https://i.ibb.co/ctPsHcg/06.jpg",
+          "https://i.ibb.co/88xYy34/07.jpg",
+          "https://i.ibb.co/NZNtXZL/08.jpg",
+          "https://i.ibb.co/Y8r2RzJ/09.jpg",
+          "https://i.ibb.co/Tkp7Wmp/10.jpg",
+          "https://i.ibb.co/3NkP4W1/11.jpg",
+          "https://i.ibb.co/K9GdzXf/12.jpg",
+          "https://i.ibb.co/HXc3vBN/13.jpg",
+          "https://i.ibb.co/vQX5pjH/14.jpg",
+          "https://i.ibb.co/C1rHR07/15.jpg",
+          "https://i.ibb.co/TkzkLt2/16.jpg",
+          "https://i.ibb.co/rGFzhc5/17.jpg",
+          "https://i.ibb.co/RhZj1XS/18.jpg",
+          "https://i.ibb.co/PFSty36/19.jpg",
+          "https://i.ibb.co/P5dhN2s/20.jpg"
         ]
       }
     }
