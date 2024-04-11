@@ -558,6 +558,31 @@
       "groups": {
         "ScanR": "/proxy/api/imgur/chapter/AEElQL3"
       }
+    },
+    "27": {
+      "title": "Un moyen de lever le maléfice",
+      "volume": "3",
+      "last_updated": "1712819464",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/0KR9tX4/01.jpg",
+          "https://i.ibb.co/VMGShHD/02.jpg",
+          "https://i.ibb.co/V96tBPc/03.jpg",
+          "https://i.ibb.co/MV0kSX6/04.jpg",
+          "https://i.ibb.co/DYQN9zz/05.jpg",
+          "https://i.ibb.co/7zPht9g/06.jpg",
+          "https://i.ibb.co/SKtL2Px/07.jpg",
+          "https://i.ibb.co/my27cpL/08.jpg",
+          "https://i.ibb.co/28L3j8p/09.jpg",
+          "https://i.ibb.co/SR8n6Hp/10.jpg",
+          "https://i.ibb.co/Tk9zk1W/11.jpg",
+          "https://i.ibb.co/bgFvtX7/12.jpg",
+          "https://i.ibb.co/F86dS0t/13.jpg",
+          "https://i.ibb.co/N25tr28/14.jpg",
+          "https://i.ibb.co/25cNtXb/15.jpg",
+          "https://i.ibb.co/4RJsq2N/16.jpg"
+        ]
+      }
     }
   }
 }
