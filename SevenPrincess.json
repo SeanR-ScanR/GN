@@ -607,6 +607,39 @@
           "https://i.ibb.co/LvZNfMF/15.jpg"
         ]
       }
+    },
+    "7.5": {
+      "title": "Bonus T1",
+      "volume": "1",
+      "last_updated": "1713022921",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/mzXkyJs/Bonus-chapitre-1.jpg",
+          "https://i.ibb.co/85VWRFJ/Bonus-chapitre-2.jpg",
+          "https://i.ibb.co/37Nrcqn/Bonus-chapitre-3.jpg",
+          "https://i.ibb.co/x8j73KJ/Bonus-chapitre-4.jpg",
+          "https://i.ibb.co/GpdvdhF/Bonus-chapitre-5.jpg",
+          "https://i.ibb.co/pRGZ5SJ/Bonus-chapitre-6.jpg"
+        ]
+      }
+    },
+    "17.5": {
+      "title": "Bonus T2",
+      "volume": "2",
+      "last_updated": "1713022952",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/ZhmfX8R/Page-couleur-chapitre-14.jpg",
+          "https://i.ibb.co/wzwxYP3/Bonus-chapitre-8.jpg",
+          "https://i.ibb.co/1mZS0MT/Bonus-chapitre-9.jpg",
+          "https://i.ibb.co/M5V0pRY/Bonus-chapitre-10.jpg",
+          "https://i.ibb.co/HXkGvWN/Bonus-chapitre-11.jpg",
+          "https://i.ibb.co/yVCJfW9/Bonus-chapitre-12.jpg",
+          "https://i.ibb.co/K0zWBLG/Bonus-chapitre-13.jpg",
+          "https://i.ibb.co/L0W8VQC/Bonus-chapitre-14.jpg",
+          "https://i.ibb.co/rcBhD9K/Bonus-chapitre-15.jpg"
+        ]
+      }
     }
   }
 }
