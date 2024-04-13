@@ -1,5 +1,5 @@
 {
-  "title": "Princess (Edit)",
+  "title": "Princesses (Edit)",
   "description": "Dans le royaume enchanteur d'Amaryllis, Alec, le prince errant du royaume de Ludovechia, se lance dans une noble quête pour briser l'ancienne malédiction jetée par une sorcière qui a plongé le pays dans un sommeil profond. Sa mission : réveiller la princesse avec un baiser d'amour. Mais il y a un détail dont personne ne l'a prévenu : il y a sept princesses à embrasser ! Sans se décourager, il relève le défi et se retrouve à vivre parmi elles pour élucider le mystère qui se cache derrière l'état de torpeur du royaume. Trouveront-ils tous un jour leur bonheur ?",
   "artist": " Fiok Lee",
   "author": " Fiok Lee",
@@ -581,6 +581,30 @@
           "https://i.ibb.co/N25tr28/14.jpg",
           "https://i.ibb.co/25cNtXb/15.jpg",
           "https://i.ibb.co/4RJsq2N/16.jpg"
+        ]
+      }
+    },
+    "28": {
+      "title": "Ce qui me semble juste",
+      "volume": "4",
+      "last_updated": "1713007370",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/5Bfkx3B/01.jpg",
+          "https://i.ibb.co/Lg7LHNP/02.jpg",
+          "https://i.ibb.co/2M0Q6LQ/03.jpg",
+          "https://i.ibb.co/6nb70FS/04.jpg",
+          "https://i.ibb.co/BZZSYf1/05.jpg",
+          "https://i.ibb.co/mbW74VQ/06.jpg",
+          "https://i.ibb.co/563F0wd/07.jpg",
+          "https://i.ibb.co/BgCMStP/08.jpg",
+          "https://i.ibb.co/rsvgvmk/09.jpg",
+          "https://i.ibb.co/7pMz5rp/10.jpg",
+          "https://i.ibb.co/VCRZx2s/11.jpg",
+          "https://i.ibb.co/BCZ7Zqc/12.jpg",
+          "https://i.ibb.co/7ryhq7X/13.jpg",
+          "https://i.ibb.co/1dgCGGB/14.jpg",
+          "https://i.ibb.co/LvZNfMF/15.jpg"
         ]
       }
     }
