@@ -68,6 +68,49 @@
       "groups": {
         "ScanR": "/proxy/api/imgur/chapter/suvNoS3"
       }
+    },
+    "133": {
+      "title": "Match retour",
+      "volume": "",
+      "last_updated": "1713804022",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/ZgDwMm2"
+      }
+    },
+    "134": {
+      "title": "Match retour, partie 2",
+      "volume": "",
+      "last_updated": "1713804097",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/9L8II59"
+      }
+    },
+    "135": {
+      "title": "Monter en grade",
+      "volume": "",
+      "last_updated": "1713804126",
+      "groups": {
+        "ScanR": [
+          "https://i.ibb.co/zGFN29y/01.jpg",
+          "https://i.ibb.co/8gD2CcN/02.jpg",
+          "https://i.ibb.co/Kss56Dt/03.jpg",
+          "https://i.ibb.co/yNJpyP0/04.jpg",
+          "https://i.ibb.co/85cqZZf/05.jpg",
+          "https://i.ibb.co/ZdLYP6b/06.jpg",
+          "https://i.ibb.co/sjNMhc5/07.jpg",
+          "https://i.ibb.co/gFVbM6w/08.jpg",
+          "https://i.ibb.co/VqtnmWT/09.jpg",
+          "https://i.ibb.co/3cNG30W/10.jpg",
+          "https://i.ibb.co/xCCGYXy/11.jpg",
+          "https://i.ibb.co/MZtrmPk/12.jpg",
+          "https://i.ibb.co/tKCQbBX/13.jpg",
+          "https://i.ibb.co/jG74rhC/14.jpg",
+          "https://i.ibb.co/ws0gQcx/15.jpg",
+          "https://i.ibb.co/LNp8XFv/16.jpg",
+          "https://i.ibb.co/bHDT6G0/17.jpg",
+          "https://i.ibb.co/FhZj24Q/18.jpg"
+        ]
+      }
     }
   }
 }
