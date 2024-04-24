@@ -4,5 +4,75 @@
   "artist": " Fiok Lee",
   "author": " Fiok Lee",
   "cover": "https://www.nautiljon.com/images/manga/00/91/7-nin_no_nemuri_hime_26919.webp?0",
-  "chapters": {}
+  "chapters": {
+    "40": {
+      "title": "40",
+      "volume": "",
+      "last_updated": "1713971226",
+      "groups": {
+        "Raw": [
+          "https://i.ibb.co/LPHGcGf/01.jpg",
+          "https://i.ibb.co/W06yMNs/02.jpg",
+          "https://i.ibb.co/fks81Df/03.jpg",
+          "https://i.ibb.co/yd2DKgV/04.jpg",
+          "https://i.ibb.co/0CsW2Ty/05.jpg",
+          "https://i.ibb.co/SB64vVH/06.jpg",
+          "https://i.ibb.co/njysKZH/07.jpg",
+          "https://i.ibb.co/y8TgGSQ/08.jpg",
+          "https://i.ibb.co/KhftR4h/09.jpg",
+          "https://i.ibb.co/8BC8QwC/10.jpg",
+          "https://i.ibb.co/PjyRbbH/11.jpg",
+          "https://i.ibb.co/1v1RjSQ/12.jpg",
+          "https://i.ibb.co/Sw6Lb4d/13.jpg",
+          "https://i.ibb.co/6skYvxj/14.jpg"
+        ]
+      }
+    },
+    "41": {
+      "title": "41",
+      "volume": "",
+      "last_updated": "1713971265",
+      "groups": {
+        "Raw": [
+          "https://i.ibb.co/YQRhspc/01.jpg",
+          "https://i.ibb.co/3dh1DZh/02.jpg",
+          "https://i.ibb.co/wKZ1sXT/03.jpg",
+          "https://i.ibb.co/XkBX770/04.jpg",
+          "https://i.ibb.co/4T7C7jQ/05.jpg",
+          "https://i.ibb.co/BTG0dyM/06.jpg",
+          "https://i.ibb.co/k2GyYgz/07.jpg",
+          "https://i.ibb.co/R26cvsg/08.jpg",
+          "https://i.ibb.co/KF10hHk/09.jpg",
+          "https://i.ibb.co/rKhNSkW/10.jpg",
+          "https://i.ibb.co/KDWdHNz/11.jpg",
+          "https://i.ibb.co/qkccCr2/12.jpg",
+          "https://i.ibb.co/bKLkDRh/13.jpg",
+          "https://i.ibb.co/ZYB3vZm/14.jpg"
+        ]
+      }
+    },
+    "42": {
+      "title": "42",
+      "volume": "",
+      "last_updated": "1713971274",
+      "groups": {
+        "Raw": [
+          "https://i.ibb.co/X860hKq/01.jpg",
+          "https://i.ibb.co/G2vG8xm/02.jpg",
+          "https://i.ibb.co/GM3cXRr/03.jpg",
+          "https://i.ibb.co/2qTRk0t/04.jpg",
+          "https://i.ibb.co/wRn9zd6/05.jpg",
+          "https://i.ibb.co/sRCSQ0b/06.jpg",
+          "https://i.ibb.co/86qkTTY/07.jpg",
+          "https://i.ibb.co/GkdVkwC/08.jpg",
+          "https://i.ibb.co/ctKxh97/09.jpg",
+          "https://i.ibb.co/R7G3KpX/10.jpg",
+          "https://i.ibb.co/4ffsxwD/11.jpg",
+          "https://i.ibb.co/bbtmZFm/12.jpg",
+          "https://i.ibb.co/h91cSD8/13.jpg",
+          "https://i.ibb.co/qpqP8g5/14.jpg"
+        ]
+      }
+    }
+  }
 }
