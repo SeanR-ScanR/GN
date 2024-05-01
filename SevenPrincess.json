@@ -677,6 +677,14 @@
         ]
       }
     },
+    "32": {
+      "title": "Donnez-moi une réponse",
+      "volume": "3",
+      "last_updated": "1714568817",
+      "groups": {
+        "ScanR": "/proxy/api/imgur/chapter/QGexosx"
+      }
+    },
     "7.5": {
       "title": "Bonus T1",
       "volume": "1",
