@@ -73,6 +73,30 @@
           "https://i.ibb.co/qpqP8g5/14.jpg"
         ]
       }
+    },
+    "49": {
+      "title": "49",
+      "volume": "",
+      "last_updated": "1721833612",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/y65qO23"
+      }
+    },
+    "50": {
+      "title": "50",
+      "volume": "",
+      "last_updated": "1721833708",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/DL2xFBL"
+      }
+    },
+    "51": {
+      "title": "51",
+      "volume": "",
+      "last_updated": "1721833765",
+      "groups": {
+        "Raw": "/proxy/api/imgur/chapter/GglKMOm"
+      }
     }
   }
 }
