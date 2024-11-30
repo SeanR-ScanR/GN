@@ -5,6 +5,14 @@
   "author": "Kouji Seo",
   "cover": "https://jpbookstore.com/cdn/shop/files/61Qi_VG_fSL_469x700.jpg?v=1727101055",
   "chapters": {
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1732982269",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jiO0vwK"
+      }
+    },
     "10": {
       "title": "10",
       "volume": "",
@@ -42,7 +50,15 @@
       "volume": "",
       "last_updated": "1732970737",
       "groups": {
-        "": "/proxy/api/imgur/chapter/9bayaXz"
+        "": "/proxy/api/imgbox/chapter/75jdOxSQFD"
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1732982238",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qlPsucw"
       }
     }
   }
