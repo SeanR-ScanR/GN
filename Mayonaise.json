@@ -1,0 +1,33 @@
+{
+  "title": "Mayonaise",
+  "description": "Quand Arisu Yamabuki était plus jeune et tout seul la nuit, il retrouvait du réconfort envers une voix d'une mystérieuse animatrice de radio qui se faisait appelée \"Apollo.\".\nMais un jour, elle stoppe son émission et Arisu décide de la retrouver, même s'il ne sait rien d'elle. Il va rentrer dans le club de radio et va faire la rencontre de quatre filles qui veulent tous devenir des animatrices de radio.\nDu coup, qui est Apollo ? Et est-ce que ces 4 filles vont atteindre leurs rêves ?",
+  "artist": "Kouji Seo",
+  "author": "Kouji Seo",
+  "cover": "https://jpbookstore.com/cdn/shop/files/61Qi_VG_fSL_469x700.jpg?v=1727101055",
+  "chapters": {
+    "10": {
+      "title": "10",
+      "volume": "",
+      "last_updated": "1732964574",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/f6XPFOW"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1732964611",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9KmvvLT"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1732964599",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WjXX6bF"
+      }
+    }
+  }
+}
